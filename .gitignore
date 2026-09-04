@@ -1,0 +1,36 @@
+# Environment Variables & Keys (CRITICAL: NEVER COMMIT KEYS)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit Local Config / Credentials
+.streamlit/secrets.toml
+
+# Logs & Temporary Files
+*.log
