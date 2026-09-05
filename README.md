@@ -1,5 +1,4 @@
 # 🚛 AI Control Tower for Supply Chain Risk Management
-
 An end-to-end **Agentic AI & ML Control Tower** for real-time logistics risk analytics, automated root-cause investigation, interactive alternative routing recommendations, and Text-to-SQL data exploration. Built on a Medallion Lakehouse Architecture (Bronze → Silver → Gold) using DuckDB, Scikit-Learn, Gemini 3.5 Flash, and Streamlit.
 
 ---
